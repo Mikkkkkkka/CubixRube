@@ -1,0 +1,3 @@
+C:/Users/NeSai/CLionProjects/CubixRube/cmake-build-debug/CMakeFiles/CubixRube.dir
+C:/Users/NeSai/CLionProjects/CubixRube/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NeSai/CLionProjects/CubixRube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
