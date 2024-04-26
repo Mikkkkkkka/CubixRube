@@ -10,6 +10,6 @@
 - Сохранение состояния в файл [ ]
 - Чтение состояния из файла [ ]
 
-Автор: *Кашин Михаил Олегович*
-tg:  [@srryizonedout](https://t.me/srryizonedout)
+Автор: *Кашин Михаил Олегович*  
+tg:  [@srryizonedout](https://t.me/srryizonedout)  
 ig:  [@nevedoma_hren](https://www.instagram.com/nevedoma_hren?igsh=d21xamt3ZG03czNx)
